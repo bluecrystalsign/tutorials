@@ -108,12 +108,12 @@
         <java.version>1.8</java.version>
         <javax.servlet.jsp-api.version>2.3.3</javax.servlet.jsp-api.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
-        <spring.version>5.2.1.RELEASE</spring.version>
-        <spring.security.version>5.2.1.RELEASE</spring.security.version>
+        <spring.version>5.2.3.RELEASE</spring.version>
+        <spring.security.version>5.2.4.RELEASE</spring.security.version>
         <spring.data.version>2.2.2.RELEASE</spring.data.version>
         <cglib.version>2.2.2</cglib.version>
         <hsqldb.version>2.5.0</hsqldb.version>
-        <hibernate.version>5.4.9.Final</hibernate.version>
+        <hibernate.version>5.4.18.Final</hibernate.version>
         <deploy-path>enter-location-of-server</deploy-path>
     </properties>
 
