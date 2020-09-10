@@ -558,7 +558,7 @@
     <properties>
         <shade.plugin.version>2.2</shade.plugin.version>
         <multiverse.version>0.7.0</multiverse.version>
-        <cglib.version>3.2.7</cglib.version>
+        <cglib.version>3.2.11</cglib.version>
         <javatuples.version>1.2</javatuples.version>
         <assertj.version>3.6.2</assertj.version>
         <javers.version>3.1.0</javers.version>
@@ -583,9 +583,9 @@
 
         <protonpack.version>1.15</protonpack.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.31.0</google-api.version>
         <kafka.version>2.0.0</kafka.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
 
         <jets3t-version>0.9.4.0006L</jets3t-version>
         <jctools.version>2.1.2</jctools.version>
@@ -613,7 +613,7 @@
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
         <commons-net.version>3.6</commons-net.version>
-        <reflections.version>0.9.11</reflections.version>
+        <reflections.version>0.9.12</reflections.version>
     </properties>
 
 </project>
