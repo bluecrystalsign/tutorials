@@ -584,8 +584,8 @@
         <protonpack.version>1.15</protonpack.version>
         <caffeine.version>2.5.5</caffeine.version>
         <google-api.version>1.23.0</google-api.version>
-        <kafka.version>2.0.0</kafka.version>
-        <docker.version>3.0.14</docker.version>
+        <kafka.version>2.2.2</kafka.version>
+        <docker.version>3.2.0</docker.version>
 
         <jets3t-version>0.9.4.0006L</jets3t-version>
         <jctools.version>2.1.2</jctools.version>
@@ -599,7 +599,7 @@
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <quartz.version>2.3.0</quartz.version>
         <jool.version>0.9.12</jool.version>
