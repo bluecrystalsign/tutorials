@@ -42,7 +42,7 @@
     </dependencies>
 
     <properties>
-        <datasource-proxy.version>1.4.1</datasource-proxy.version>
+        <datasource-proxy.version>1.4.2</datasource-proxy.version>
     </properties>
 
 </project>
