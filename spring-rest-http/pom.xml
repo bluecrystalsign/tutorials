@@ -46,7 +46,7 @@
 
 
     <properties>
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.14-jdk7</xstream.version>
     </properties>
 
 </project>
