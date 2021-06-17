@@ -30,7 +30,7 @@
     </dependencies>
 
     <properties>
-        <spring.version>5.2.2.RELEASE</spring.version>
+        <spring.version>5.2.15.RELEASE</spring.version>
         <spring-security.version>5.2.1.RELEASE</spring-security.version>
     </properties>
 
